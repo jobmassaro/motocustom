@@ -1,0 +1,45 @@
+/* Global styles */ 
+
+/*!
+ * IE10 viewport hack for Surface/desktop Windows 8 bug
+ * Copyright 2014-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*
+ * See the Getting Started docs for more information:
+ * http://getbootstrap.com/getting-started/#support-ie10-width
+ */
+@-ms-viewport     { width: device-width; }
+@-o-viewport      { width: device-width; }
+@viewport         { width: device-width; }
+
+
+#logo{
+	width: 40%;
+	height: 100px;
+	
+}
+.imagine{
+	padding-left: -120px;
+}
+
+.caption{
+	
+	font-family: 'Raleway', sans-serif;
+  	font-size: 15px;
+  	letter-spacing: 1.3px;
+
+
+}
+#sottotitolo{
+	font-family: 'Raleway', sans-serif;
+	font-size: 34px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+#sottotitolo2{
+	font-size: 14px;
+	letter-spacing: 2px;
+}
