@@ -10,10 +10,31 @@
  * See the Getting Started docs for more information:
  * http://getbootstrap.com/getting-started/#support-ie10-width
  */
-@-ms-viewport     { width: device-width; }
-@-o-viewport      { width: device-width; }
-@viewport         { width: device-width; }
 
+body{
+	font-family: 'Raleway', sans-serif;
+}
+.header_logo
+{
+	padding-top: 50px;
+
+}
+
+.sottotitolo{
+	padding-top: 15px;
+	color: #fff;
+	letter-spacing: 1.9px;
+	font-size: 28px;
+	font-weight: bold;
+
+}
+.sottosotto{
+	padding-top: 15px;
+	color: #fff;
+	letter-spacing: 1.8px;
+	font-size: 28px;
+	font-weight: bold;	
+}
 
 #logo{
 	width: 40%;
